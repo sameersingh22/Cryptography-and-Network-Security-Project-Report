@@ -1,0 +1,1 @@
+An in-depth project report discussing the topology and components of networks, (including the OSI, and TCP/IP model), history/evolution of security protocols for wireless networks and the shortcomings in the most recent protocol. A brief case study on Ethical Hacking is also included.
